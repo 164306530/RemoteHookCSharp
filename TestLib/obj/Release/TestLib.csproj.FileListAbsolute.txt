@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\RemoteHook\TestLib\bin\Release\EasyHook32.dll
+C:\Users\Administrator\Desktop\RemoteHook\TestLib\bin\Release\EasyHook32Svc.exe
+C:\Users\Administrator\Desktop\RemoteHook\TestLib\bin\Release\EasyHook64.dll
+C:\Users\Administrator\Desktop\RemoteHook\TestLib\bin\Release\EasyHook64Svc.exe
+C:\Users\Administrator\Desktop\RemoteHook\TestLib\bin\Release\EasyLoad32.dll
+C:\Users\Administrator\Desktop\RemoteHook\TestLib\bin\Release\EasyLoad64.dll
+C:\Users\Administrator\Desktop\RemoteHook\TestLib\bin\Release\TestLib.dll
+C:\Users\Administrator\Desktop\RemoteHook\TestLib\bin\Release\TestLib.pdb
+C:\Users\Administrator\Desktop\RemoteHook\TestLib\bin\Release\EasyHook.dll
+C:\Users\Administrator\Desktop\RemoteHook\TestLib\bin\Release\EasyHook.xml
+C:\Users\Administrator\Desktop\RemoteHook\TestLib\obj\Release\TestLib.csproj.CopyComplete
+C:\Users\Administrator\Desktop\RemoteHook\TestLib\obj\Release\TestLib.dll
+C:\Users\Administrator\Desktop\RemoteHook\TestLib\obj\Release\TestLib.pdb
+C:\Users\Administrator\Desktop\RemoteHook\TestLib\obj\Release\TestLib.csprojAssemblyReference.cache

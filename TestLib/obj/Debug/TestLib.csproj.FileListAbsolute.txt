@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\RemoteHook\TestLib\bin\Debug\EasyHook32.dll
+C:\Users\Administrator\Desktop\RemoteHook\TestLib\bin\Debug\EasyHook32Svc.exe
+C:\Users\Administrator\Desktop\RemoteHook\TestLib\bin\Debug\EasyHook64.dll
+C:\Users\Administrator\Desktop\RemoteHook\TestLib\bin\Debug\EasyHook64Svc.exe
+C:\Users\Administrator\Desktop\RemoteHook\TestLib\bin\Debug\EasyLoad32.dll
+C:\Users\Administrator\Desktop\RemoteHook\TestLib\bin\Debug\EasyLoad64.dll
+C:\Users\Administrator\Desktop\RemoteHook\TestLib\bin\Debug\TestLib.dll
+C:\Users\Administrator\Desktop\RemoteHook\TestLib\bin\Debug\TestLib.pdb
+C:\Users\Administrator\Desktop\RemoteHook\TestLib\bin\Debug\EasyHook.dll
+C:\Users\Administrator\Desktop\RemoteHook\TestLib\bin\Debug\EasyHook.xml
+C:\Users\Administrator\Desktop\RemoteHook\TestLib\obj\Debug\TestLib.csproj.CopyComplete
+C:\Users\Administrator\Desktop\RemoteHook\TestLib\obj\Debug\TestLib.dll
+C:\Users\Administrator\Desktop\RemoteHook\TestLib\obj\Debug\TestLib.pdb
